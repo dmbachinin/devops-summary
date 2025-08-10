@@ -5,14 +5,14 @@
 ```
 
 - [Docker Compose](#docker-compose)
-  - [Docker Compose базовая инофрмация](#docker-compose-базовая-инофрмация)
+  - [Docker Compose базовая информация](#docker-compose-базовая-информация)
   - [Разница между Dockerfile и Docker Compose](#разница-между-dockerfile-и-docker-compose)
   - [Структура файла docker-compose.yml](#структура-файла-docker-composeyml)
     - [volumes](#volumes)
       - [Как работает связывание директорий](#как-работает-связывание-директорий)
     - [Дополнительные опции](#дополнительные-опции)
 
-## Docker Compose базовая инофрмация
+## Docker Compose базовая информация
 
 `Docker Compose` — это инструментальное средство, входящее в состав `Docker`. Оно предназначено для решения задач, связанных с развёртыванием проектов
 
